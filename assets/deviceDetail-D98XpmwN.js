@@ -1,0 +1,1 @@
+import{r as t}from"./index-DnWiy9RZ.js";const a=e=>t.get({url:"/tgCloud/device-detail/page",params:e}),d=e=>t.post({url:"/tgCloud/device-detail/unbind-account",params:{deviceDetailId:e}}),i=e=>t.get({url:`/tgCloud/device-detail/group-info/${e}`});export{a,i as g,d as u};

@@ -1,0 +1,1 @@
+import"./index-DnWiy9RZ.js";import{am as t}from"./form-designer-BPt9i1AS.js";import{l as a,A as e,q as r}from"./form-create-C-H5lI9G.js";const o=a({name:"UserWallet",__name:"index",props:{property:{}},setup:p=>(m,n)=>{const s=t;return r(),e(s,{src:"https://shopro.sheepjs.com/admin/static/images/shop/decorate/walletCardStyle.png"})}});export{o as default};

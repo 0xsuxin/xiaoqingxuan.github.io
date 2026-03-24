@@ -1,0 +1,1 @@
+import{r}from"./index-DnWiy9RZ.js";const a=t=>r.post({url:"/product/category/create",data:t}),e=t=>r.put({url:"/product/category/update",data:t}),o=t=>r.delete({url:`/product/category/delete?id=${t}`}),d=t=>r.get({url:`/product/category/get?id=${t}`}),c=t=>r.get({url:"/product/category/list",params:t});export{d as a,a as c,o as d,c as g,e as u};

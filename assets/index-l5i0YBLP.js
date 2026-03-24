@@ -1,0 +1,1 @@
+import{r as e}from"./index-DnWiy9RZ.js";const t=async a=>await e.post({url:"/bpm/oa/leave/create",data:a}),s=async a=>await e.get({url:"/bpm/oa/leave/get?id="+a}),r=async a=>await e.get({url:"/bpm/oa/leave/page",params:a});export{r as a,t as c,s as g};

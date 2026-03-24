@@ -1,0 +1,1 @@
+import{_ as o}from"./TagForm.vue_vue_type_script_setup_true_lang-BICkwdR5.js";import"./index-DnWiy9RZ.js";import"./form-designer-BPt9i1AS.js";import"./form-create-C-H5lI9G.js";import"./Dialog.vue_vue_type_style_index_0_lang-CWRTdO51.js";import"./index-viesU8cA.js";export{o as default};

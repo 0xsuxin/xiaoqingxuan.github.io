@@ -1,0 +1,1 @@
+import{r as u}from"./index-DnWiy9RZ.js";const p=t=>u.get({url:"/tgCloud/ip-group/page",params:t}),a=t=>u.post({url:"/tgCloud/ip-group/create",data:t}),r=t=>u.put({url:"/tgCloud/ip-group/update",data:t}),e=t=>u.delete({url:`/tgCloud/ip-group/delete?id=${t}`}),g=t=>u.get({url:`/tgCloud/ip-group/get?id=${t}`});export{g as a,a as c,e as d,p as g,r as u};

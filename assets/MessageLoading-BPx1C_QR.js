@@ -1,0 +1,1 @@
+import{_ as a}from"./index-DnWiy9RZ.js";import{aW as o}from"./form-designer-BPt9i1AS.js";import{m as r,q as t,J as m}from"./form-create-C-H5lI9G.js";const n={class:"p-30px"},e=a({},[["render",function(i,p){const s=o;return t(),r("div",n,[m(s,{animated:""})])}]]);export{e as default};

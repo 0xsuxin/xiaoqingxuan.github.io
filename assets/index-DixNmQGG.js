@@ -1,0 +1,1 @@
+import{r as s}from"./index-DnWiy9RZ.js";const a=e=>s.get({url:"/mp/free-publish/page",params:e}),p=(e,r)=>s.delete({url:"/mp/free-publish/delete?accountId="+e+"&articleId="+r}),t=(e,r)=>s.post({url:"/mp/free-publish/submit?accountId="+e+"&mediaId="+r});export{p as d,a as g,t as s};

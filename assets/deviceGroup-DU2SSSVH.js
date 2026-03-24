@@ -1,0 +1,1 @@
+import{r as e}from"./index-DnWiy9RZ.js";const o=a=>e.get({url:"/tgCloud/device-group/page",params:a}),r=a=>e.post({url:"/tgCloud/device-group/purchase",data:a,timeout:3e5}),t=()=>e.get({url:"/tgCloud/dashboard/device-config"});export{t as a,o as g,r as p};

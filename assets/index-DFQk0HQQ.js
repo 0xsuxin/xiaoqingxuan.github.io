@@ -1,0 +1,1 @@
+import{r as a}from"./index-DnWiy9RZ.js";const t=async s=>await a.get({url:"/system/social-user/page",params:s}),e=async s=>await a.get({url:"/system/social-user/get?id="+s}),r=async()=>await a.get({url:"/system/social-user/get-bind-list"});export{e as a,t as b,r as g};

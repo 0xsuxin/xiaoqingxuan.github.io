@@ -1,0 +1,1 @@
+import{aW as e}from"./index-DnWiy9RZ.js";import{u as o,U as r}from"./useUpload-C56RqZq-.js";const i={Authorization:"Bearer "+e()},m="/admin-api/mp/material/upload-permanent",s=a=>o(r.Image,2)(a),p=a=>o(r.Voice,2)(a),t=a=>o(r.Video,10)(a);export{i as H,m as U,p as a,s as b,t as c};

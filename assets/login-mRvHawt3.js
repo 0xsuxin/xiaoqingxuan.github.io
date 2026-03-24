@@ -1,0 +1,1 @@
+import{r as t}from"./index-DnWiy9RZ.js";const s=o=>t.post({url:"/customer/auth/login",data:o,headers:{isEncrypt:!1}}),r=()=>t.get({url:"/customer/auth/get-permission-info"}),a=()=>t.post({url:"/customer/auth/logout"});export{s as a,a as c,r as g};

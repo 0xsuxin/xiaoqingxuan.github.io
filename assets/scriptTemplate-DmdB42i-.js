@@ -1,0 +1,1 @@
+import{r as a}from"./index-DnWiy9RZ.js";const e=t=>a.get({url:"/tgCloud/script-template/page",params:t}),p=t=>a.post({url:"/tgCloud/script-template/create",data:t}),r=t=>a.put({url:"/tgCloud/script-template/update",data:t}),l=t=>a.delete({url:"/tgCloud/script-template/delete",params:{id:t}});export{p as c,l as d,e as g,r as u};

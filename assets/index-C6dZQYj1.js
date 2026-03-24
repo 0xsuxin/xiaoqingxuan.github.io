@@ -1,0 +1,1 @@
+import"./index-DnWiy9RZ.js";import{am as s}from"./form-designer-BPt9i1AS.js";import{l as e,A as t,q as p}from"./form-create-C-H5lI9G.js";const r=e({name:"UserCoupon",__name:"index",props:{property:{}},setup:a=>(m,n)=>{const o=s;return p(),t(o,{src:"https://shopro.sheepjs.com/admin/static/images/shop/decorate/couponCardStyle.png"})}});export{r as default};
